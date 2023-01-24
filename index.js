@@ -1,4 +1,4 @@
-//Execício Polimorfismo
+//Execício Polimorfismo - Conta de banco
 
 function Conta(agencia, conta, saldo) {
   this.agencia = agencia;
